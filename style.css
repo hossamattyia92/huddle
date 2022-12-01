@@ -64,7 +64,7 @@ background-size: 100%;
 padding: 8%;
 }
 .imageClass{padding: 9% 0;}
-}
+
 .title{text-align: center;}
 .buttonR{margin:0;
 padding:3% 20%; }
@@ -72,3 +72,4 @@ padding:3% 20%; }
 margin: 10%; padding: 2%;}
 .para{padding:3% 12%; }
 .socialA{padding: 3%;}
+}
