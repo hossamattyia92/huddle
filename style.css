@@ -1,5 +1,5 @@
 body{margin:0;
-  background-image:url("bg-desktop.svg");
+  background-image:url("https://raw.githubusercontent.com/hossamattyia92/huddle/b5525bd7e56ae2e3f5f4016acbc3b8d14d3f95e7/bg-desktop.svg");
   background-size: 85%;
   background-repeat: no-repeat;
   background-position: 10% 0;
@@ -59,7 +59,7 @@ border-color:hsl(300, 69%, 71%); }
 .attribution a { color: hsl(228, 45%, 44%); }
 /* RESPONSIVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE */
 @media (max-width: 800px) {
-body{background-image: url("images/bg-mobile.svg");
+body{background-image: url("https://raw.githubusercontent.com/hossamattyia92/huddle/b5525bd7e56ae2e3f5f4016acbc3b8d14d3f95e7/bg-mobile.svg");
 background-size: 100%;
 padding: 8%;
 }
