@@ -1,0 +1,74 @@
+body{margin:0;
+  background-image:url("bg-desktop.svg");
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-position: 10% 0;
+background-color: hsl(257, 40%, 49%);
+padding: 3% 5%;}
+h1{color: white;
+display: inline-block;
+
+}
+p{color: white;
+margin-top: 5%;}
+/* parent div */
+.row{padding: 5% 0%;
+  padding-bottom: 0;
+margin: 0;}
+/* logo */
+.icon{font-family: "Poppins", sans-serif;
+
+}
+.iconA{color: white;
+font-size: 2rem;}
+/* heading */
+.main{padding: 7% 10% 0 8%;
+font-family:'Poppins', sans-serif;
+font-weight: 400;}
+.para{padding: 0 18% 3% 8%;
+font-family:'Open Sans', sans-serif;
+ }
+/* button */
+.buttonR{margin-left: 8%;
+text-align: center;
+padding: 2% 8%;
+border:none;
+border-radius: 25px;
+background-color: white;
+color:gray;}
+/* image */
+.imageClass{padding: 0 1% 0 0;}
+.imageA{width:100%;}
+/* social media */
+.social{text-align: right;
+margin-top: 2%;
+padding-right: 10%;}
+.socialA{text-align: center;
+  margin:0.5%;
+  padding:0.5%;
+border:1px solid white;
+border-radius: 50px;
+color: white;}
+/* hover */
+.buttonR:hover{color: white;
+background-color:hsl(300, 69%, 71%); }
+.socialA:hover{color:hsl(300, 69%, 71%);
+border-color:hsl(300, 69%, 71%); }
+/* footer */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+/* RESPONSIVEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE */
+@media (max-width: 800px) {
+body{background-image: url("images/bg-mobile.svg");
+background-size: 100%;
+padding: 8%;
+}
+.imageClass{padding: 9% 0;}
+}
+.title{text-align: center;}
+.buttonR{margin:0;
+padding:3% 20%; }
+.social{text-align: center;
+margin: 10%; padding: 2%;}
+.para{padding:3% 12%; }
+.socialA{padding: 3%;}
