@@ -40,7 +40,7 @@ color:gray;}
 .imageClass{padding: 0 1% 0 0;}
 .imageA{width:100%;}
 /* social media */
-.social{text-align: right;
+.social{text-align:right;
 margin-top: 2%;
 padding-right: 10%;}
 .socialA{text-align: center;
@@ -68,7 +68,7 @@ padding: 8%;
 .title{text-align: center;}
 .buttonR{margin:0;
 padding:3% 20%; }
-.social{text-align: center;
+.social{text-align:center;
 margin: 10%; padding: 2%;}
 .para{padding:3% 12%; }
 .socialA{padding: 3%;}
